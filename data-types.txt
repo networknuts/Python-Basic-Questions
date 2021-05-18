@@ -1,0 +1,28 @@
+Strings
+
+s = "hello"
+
+1. Print the string in reverse
+2. Which 2 methods of indexing can be used to extract 'o' from this string?
+
+
+Lists
+
+my_list = [1,2,[3,4,'hello']]
+Reassign 'hello' in this nested list to say 'goodbye' instead
+
+Dictionaries
+
+Using keys and indexing, grab the 'hello' from the following dictionaries:
+d = {'simple_key':'hello'}
+d = {'k1':{'k2':'hello'}}
+d = {'k1':[{'nest_key':['this is deep',['hello']]}]}
+d = {'k1':[1,2,{'k2':['this is tricky',{'tough':[1,2,['hello']]}]}]}
+
+Booleans
+CALCULATE THIS WITHOUT EXECUTING
+
+l_one = [1,2,[3,4]]
+l_two = [1,2,{'k1':4}]
+
+Is l_one[2][0] >= l_two[2]['k1'] true or false?
